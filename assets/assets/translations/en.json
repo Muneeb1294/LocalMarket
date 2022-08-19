@@ -126,6 +126,15 @@
   "enter_phone": "Enter Phone",
   "enter_description": "Enter Description",
   "accepted_programs": "Accepted Programs",
+  "dates_open": "Dates Open",
+  "all_year_round": "All Year Round",
+  "select_days": "Select Days",
+  "select_start_time": "Select start time",
+  "select_end_time": "Select end time",
+  "start_time": "Start Time",
+  "end_time": "End Time",
+  "add_date_time": "Add Days Open/Time",
+  "selected_date_time": "Selected Days Open/Time",
   "": "",
   " ": " "
 }
